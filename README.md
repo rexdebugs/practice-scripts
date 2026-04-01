@@ -23,3 +23,5 @@ I made this repository to practice Git, try small coding ideas, and keep little 
 - command-line experiments
 - notes while learning
 - tiny test files
+
+Small GitHub edit: this line was added on the GitHub website.
