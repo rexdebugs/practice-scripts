@@ -1,0 +1,79 @@
+# Week 1 Learning Log
+
+## Day 1 — Phase Setup and Baseline Check
+
+Date: 2026-07-28
+
+## Environment Check
+
+### Current working directory
+
+Result:/jome/jumal/projects/practice-scripts
+
+### Python version
+
+Result:Python 3.12.3
+
+### Git version
+
+Result:git version 2.43.0
+
+### VS Code version
+
+Result:1.129.1
+
+### Was VS Code connected to WSL?
+
+Answer:yes
+
+## Baseline Questions
+
+### 1. What is a program?
+
+My current answer:I think it's a series of inputs and commands that when executed give an output
+
+### 2. What is Python?
+
+My current answer:I think it's a language used to write scripts and code
+
+### 3. What is a variable?
+
+My current answer:I think it's a number
+
+### 4. What is debugging?
+
+My current answer:I think it's finding and removing code errors
+
+### 5. What is a test?
+
+My current answer:I'm not sure
+
+### 6. What is Git?
+
+My current answer:It's a snapshot of your work 
+
+### 7. What can AI do well?
+
+My current answer:Teach
+
+### 8. What can AI do incorrectly?
+
+My current answer:everything 
+
+## Problems Encountered
+
+### What happened?
+
+### What did I expect?
+
+### What did I try?
+
+### What fixed it?
+
+## End-of-Day Notes
+
+### What did I complete?
+
+### What still feels confusing?
+
+### What should I review tomorrow?
