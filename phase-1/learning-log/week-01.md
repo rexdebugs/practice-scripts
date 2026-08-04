@@ -77,3 +77,16 @@ My current answer:everything
 ### What still feels confusing?
 
 ### What should I review tomorrow?
+
+### What did I complete?
+
+I created the Phase 1 folder structure, confirmed my tools, wrote my
+baseline answers, committed the files, and pushed them to GitHub.
+
+### What still feels confusing?
+
+some of the vocab and what they do. also some commands that are new 
+
+### What should I review tomorrow?
+
+Vocab and commands 
