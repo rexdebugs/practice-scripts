@@ -90,3 +90,30 @@ some of the vocab and what they do. also some commands that are new
 ### What should I review tomorrow?
 
 Vocab and commands 
+
+## Day 2 — Computational Thinking and Pseudocode
+
+Date: 2026-08-04
+
+### What I completed
+
+I reviewed my CS50 Week 0 notes, studied the main computational-thinking
+terms, found ambiguities in an ordinary task, wrote pseudocode, and tested
+a name-and-age algorithm.
+
+### What I learned
+
+Write your real answer here.
+
+### One ambiguity I did not notice at first
+
+Write your real answer here.
+
+### What still feels confusing?
+
+Write your real answer here.
+
+### What should I review next?
+
+Write your real answer here.
+
